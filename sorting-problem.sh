@@ -5,3 +5,5 @@ read -p "enter 3rd no. " c
 x=$((a+b*c))
 echo "a+b*c = " $x
 
+y=$((a*b+c))
+echo "a*b+c = " $y
