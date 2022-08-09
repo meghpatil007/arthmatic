@@ -7,3 +7,7 @@ echo "a+b*c = " $x
 
 y=$((a*b+c))
 echo "a*b+c = " $y
+
+z=$((c+a/b))
+echo "c+a/b = " $z
+
